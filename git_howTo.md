@@ -4,3 +4,8 @@
 ```sh
 git init 
 ```
+
+Посмотреть статус
+```sh
+git status
+```

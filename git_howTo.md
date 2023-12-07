@@ -9,3 +9,8 @@ git init
 ```sh
 git status
 ```
+
+Добавить в изменения файл
+```sh
+git add <filename>
+```

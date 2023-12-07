@@ -19,3 +19,13 @@ git add <filename>
 ```sh
 git commit -m "сообщение коммита"
 ```
+
+Посмотреть лог
+```sh
+git log 
+```
+
+Посмотреть лог в одну строку
+```sh
+git log --oneline
+```

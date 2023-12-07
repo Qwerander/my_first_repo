@@ -29,3 +29,18 @@ git log
 ```sh
 git log --oneline
 ```
+
+Переключится к коммиту
+```sh
+git checkout <commit>
+```
+
+Посмотреть разницу изменения
+```sh
+git diff
+```
+
+Посмотреть разницу изменения между 2мя коммитами
+```sh
+git diff <commit1> <commit2>
+```

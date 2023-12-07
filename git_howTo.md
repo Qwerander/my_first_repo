@@ -14,3 +14,8 @@ git status
 ```sh
 git add <filename>
 ```
+
+Добавить коммит 
+```sh
+git commit -m "сообщение коммита"
+```

@@ -52,15 +52,15 @@ git branch
 
 Переключится на ветку
 ```sh
-git checkout <ветка>
+git checkout <branch>
 ```
 
 Создание новой ветки
 ```sh
-git branch <ветка>
+git branch <branch>
 ```
 
 Удаление ветки
 ```sh
-git branch -d <ветка>
+git branch -d <branch>
 ```

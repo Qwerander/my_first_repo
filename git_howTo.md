@@ -44,3 +44,7 @@ git diff
 ```sh
 git diff <commit1> <commit2>
 ```
+Переключится на ветку
+```sh
+git checkout <branch>
+```

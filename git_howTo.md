@@ -44,3 +44,8 @@ git diff
 ```sh
 git diff <commit1> <commit2>
 ```
+
+Отображение всех веток
+```sh
+git branch
+```

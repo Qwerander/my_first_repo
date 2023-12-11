@@ -44,7 +44,12 @@ git diff
 ```sh
 git diff <commit1> <commit2>
 ```
+
+Отображение всех веток
+```sh
+git branch
+```
 Переключится на ветку
 ```sh
-git checkout <branch>
+git checkout <ветка>
 ```
